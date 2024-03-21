@@ -1,0 +1,2 @@
+# analyzeJDComments
+使用python爬虫爬取京东数十万条商品数据和评论，并进行可视化分析
